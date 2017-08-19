@@ -38,3 +38,6 @@ vignettes/*.pdf
 # Filter by file extensions.
 *.zip
 *.pdf
+
+# Others
+.vscode/
